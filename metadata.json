@@ -1,0 +1,6 @@
+{
+  "name": "NexVora Playground",
+  "description": "NexVora Playground - Modern web code editor and preview sandbox inspired by JSFiddle. Developed by Prince AR Abdur Rahman, published by NexVora Lab's Ofc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
